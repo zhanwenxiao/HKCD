@@ -8,4 +8,4 @@ HKCD is a publicly available urban-scale photogrammetric 3D point cloud change d
 
 ## HKCD Dataset
 
-You can download the HKCD by this link "https://pan.baidu.com/s/1xBdivEyZ104OwlMu-1nChA" and email the "zhanwenxiao@whu.edu.cn" to get the password.
+You can download the HKCD by this link [10.6084/m9.figshare.30204376](https://figshare.com/articles/dataset/HKCD/30204376).
